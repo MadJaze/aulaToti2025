@@ -1,0 +1,74 @@
+*{
+
+margin: 0;
+padding: 0;
+
+
+
+}
+
+body {
+
+  background-color:purple;
+}
+
+
+header {
+
+background-color: black;
+color: white;
+padding: 30px;
+text-align: center;
+font-size: 30px;
+
+}
+
+.navegacao{
+
+background-color: #f0f0f0;
+font-size: 20px;
+
+}
+
+.navegacao ul {
+ 
+  display: flex;
+  list-style: none;
+  gap: 2rem; /* separación opcional entre los ítems */
+  text-decoration: wavy;
+  padding: 20px;
+  
+  justify-content: center;
+}
+
+
+.sobremim_section {
+
+
+display: flex;
+justify-content: center;
+ align-items: center;
+padding: 20px;
+gap: 20px;
+
+
+}
+
+.sobremim_section_bemvindo {
+
+
+    padding: 60px;
+    font-size: 40px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.sobremim_section_imagem img {
+
+    width: 360px;
+    height: 360px;
+    padding: 20px;
+}
+

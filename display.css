@@ -1,0 +1,87 @@
+*{
+
+margin: 0;
+Padding: 0;
+
+
+
+}
+
+/* morado #3d265e */
+/* anarajando #e84f30*/
+
+/* #ffdbbb*/
+
+
+header {
+
+color: white;
+    background-color: #3d265e;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+
+}
+
+
+
+ul {
+
+
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+.title {
+
+padding: 20px;
+
+}
+
+
+.main-container{
+
+
+display: flex;
+
+
+}
+
+
+/*Espaço entre elementos*/
+
+
+.bemvindo {
+
+padding: 20px;
+margin: 20px;
+    background-color: #e84f30;
+}
+
+.sobre-mim {
+
+padding: 20px;
+margin: 20px;
+    background-color: #e84f30;
+}
+
+
+.artigos {
+
+padding: 20px;
+margin: 20px;
+    background-color: #e84f30;
+}
+
+
+img {
+
+
+    width:200px;
+
+    
+}
